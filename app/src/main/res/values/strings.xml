@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conditional EditText</string>
+    <string name="password_hint">Enter your password…</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="authentication_completed">Authentication Completed.</string>
+    <string name="authentication_failed">Authentication Failed.</string>
+    <string name="silent_mode">Silent Mode ON Required, Authentication Failed.</string>
+    <string name="airplane_mode">Airplane Mode OFF required, Authentication Failed.</string>
+</resources>
